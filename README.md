@@ -84,16 +84,9 @@ Note: Voice selection and features may vary depending on the browser and operati
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Google Fonts - Poppins font family
 - Web Speech API
 - MediaRecorder API
 
-## Support
-
-For support, please open an issue in the GitHub repository or contact me at your.email@example.com
