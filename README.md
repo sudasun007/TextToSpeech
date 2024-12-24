@@ -2,7 +2,7 @@
 
 A modern, feature-rich web application that converts text to speech with support for multiple languages, voices, and audio controls. Built with vanilla JavaScript and the Web Speech API.
 
-![Text to Speech Generator](https://raw.githubusercontent.com/sudasun007/TextToSpeech/main/screenshot.png)
+![Text to Speech Generator](https://raw.githubusercontent.com/sudasun007/TextToSpeech/main/images/screenshot.png)
 
 ## Features
 
