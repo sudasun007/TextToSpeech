@@ -18,10 +18,6 @@ A modern, feature-rich web application that converts text to speech with support
 - 💬 Real-time character count
 - ✨ Smooth animations and modern UI
 
-## Demo
-
-Try it out here: [Live Demo](https://yourusername.github.io/repo-name)
-
 ## Installation
 
 1. Clone the repository:
